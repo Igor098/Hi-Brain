@@ -70,6 +70,9 @@ body {
 
 :root {
     --color-white: #fff;
+    --color-white-opacity-12: rgba(255, 255, 255, 0.12);
+    --color-white-opacity-50: rgba(255, 255, 255, 0.5);
+    --color-white-opacity-60: rgba(255, 255, 255, 0.6);
     --color-blue: #1E3DAF;
     --color-light-blue: #516ED7;
     --color-dark-blue: #0A2072;
